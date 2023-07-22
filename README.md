@@ -4,5 +4,4 @@ The dashboard allows businesses to track attrition, employee retention, and othe
 Power BI provides a wide range of features, including data preparation, interactive visualizations, and powerful analytics tools.
 Problem Statement:
 Build a HR dashboard in Power BI to track and analyze attrition in an organization
-Tools Used:
-MS Power BI
+
